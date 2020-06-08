@@ -24,8 +24,6 @@ Start by downloading the project and run "Taxi-Demand-Prediction-NYC.ipynb" file
 
 ## Prerequisites
 You need to have installed following softwares and libraries in your machine before running this project.
-1. Python 3: https://www.python.org/downloads/
-2. Anaconda: It will install ipython notebook and most of the libraries which are needed like sklearn, pandas, seaborn, matplotlib, numpy and scipy: https://www.anaconda.com/download/
 
 ## Libraries: 
 * __dask:__ It is used to handle very large files.
@@ -41,6 +39,3 @@ You need to have installed following softwares and libraries in your machine bef
 
 * __gpxpy:__ It is used while we calculate the straight line distance between two (latitude, longitude) pairs in miles.
     * i) pip install gpxpy
-
-## Authors
-•	Manish Vishwakarma - Complete work  
